@@ -1245,6 +1245,7 @@ address {
     justify-content: center;
     background-color: transparent;
     border: none;
+    color: #2E2F42;
 
 
     @media screen and (min-width: 768px) {
@@ -1304,6 +1305,14 @@ address {
     top: 24px;
     right: 24px;
     max-width: 480px;
+}
+
+.burger-icon-burger use {
+    fill: #2E2F42;
+}
+
+.burger-close use {
+    fill: #2E2F42;
 }
 
 .burger-close:hover,
