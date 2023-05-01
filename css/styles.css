@@ -1246,9 +1246,14 @@ address {
     background-color: transparent;
     border: none;
 
+
     @media screen and (min-width: 768px) {
         display: none;
     }
+}
+
+.burger-icon-burger {
+    color: #2E2F42;
 }
 
 .burger-close {
